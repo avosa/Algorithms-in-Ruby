@@ -1,4 +1,4 @@
-Write an algorithm in java that receives a string and returns the repeated character (if any) that appears the earliest in the string (or null, if no character is repeated). For example:
+Write an algorithm in Ruby that receives a string and returns the repeated character (if any) that appears the earliest in the string (or null, if no character is repeated). For example:
 
 firstRepeatedCharacter("ABCA") returns A
 
