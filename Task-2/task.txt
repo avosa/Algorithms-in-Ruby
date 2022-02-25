@@ -1,9 +1,9 @@
 Write an algorithm in Ruby that receives a string and returns the repeated character (if any) that appears the earliest in the string (or null, if no character is repeated). For example:
 
-firstRepeatedCharacter("ABCA") returns A
+first_repeated_character("ABCA") returns A
 
-firstRepeatedCharacter("BCABA") returns B
+first_repeated_character("BCABA") returns B
 
-firstRepeatedCharacter("glovol") returns l
+first_repeated_character("glovol") returns l
 
-firstRepeatedCharacter("ABC") returns null
+first_repeated_character("ABC") returns null
