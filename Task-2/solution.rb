@@ -4,7 +4,7 @@ Here's what the below method is doing:
 2. It checks if the current character is equal to the next character
 3. If it is, it returns the current character
 4. If it isn't, it continues to the next character
-5. If it reach the end of the string, it return nil
+5. If it reaches the end of the string, it return nil
 =end
 def first_repeated_character(string)
     string.chars.each do |char|
